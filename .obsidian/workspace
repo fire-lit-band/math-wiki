@@ -7,12 +7,8 @@
         "id": "407237c1aa412478",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "笔记/MA2510概率统计/describe statistics.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/MA2510概率统计/describe statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
