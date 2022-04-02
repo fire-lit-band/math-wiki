@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "c67dfbe938e62ebe",
+    "type": "split",
+    "children": [
+      {
+        "id": "407237c1aa412478",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "笔记/MA2510概率统计/describe statistics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39d55e62337c46ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2aa580b15758d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e81f333de2ad9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab28592d044179cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305
+  },
+  "right": {
+    "id": "081c60f44cf8efe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "635614f400227024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bc3d6fc58e04ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/MA2510概率统计/describe statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0961c4fc6d3b3e1e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "407237c1aa412478",
+  "lastOpenFiles": [
+    "笔记/MA2510概率统计/describe statistics.md",
+    "笔记/MA2510概率统计/Pasted image 20220224005050.png",
+    "笔记/MA2510概率统计/Pasted image 20220223203651.png",
+    "笔记/MA2510概率统计/Pasted image 20220220235426.png",
+    "笔记/MA2510概率统计/Pasted image 20211230114129.png",
+    "笔记/MA2510概率统计/Pasted image 20211230114053.png",
+    "笔记/MA2510概率统计/概率论/数字特征.md",
+    "笔记/MA2510概率统计/概率论/1.permutation.md",
+    "笔记/MA2510概率统计/概率论/2.probability.md",
+    "笔记/MA2510概率统计/数理统计/point estimator.md"
+  ]
+}
