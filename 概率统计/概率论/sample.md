@@ -1,5 +1,3 @@
-
-
 # sample distribution
 rhe sample results (e.g. the means) from “all possible samples" can be
 )rganized into a distribution. This is called the sampling distribution

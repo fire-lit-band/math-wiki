@@ -7,8 +7,12 @@
         "id": "407237c1aa412478",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "概率统计/概率论/1.permutation.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "概率统计/概率论/1.permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +98,15 @@
   },
   "active": "407237c1aa412478",
   "lastOpenFiles": [
-    "笔记/MA2510概率统计/describe statistics.md",
-    "笔记/MA2510概率统计/Pasted image 20220224005050.png",
-    "笔记/MA2510概率统计/Pasted image 20220223203651.png",
-    "笔记/MA2510概率统计/Pasted image 20220220235426.png",
-    "笔记/MA2510概率统计/Pasted image 20211230114129.png",
-    "笔记/MA2510概率统计/Pasted image 20211230114053.png",
-    "笔记/MA2510概率统计/概率论/数字特征.md",
-    "笔记/MA2510概率统计/概率论/1.permutation.md",
-    "笔记/MA2510概率统计/概率论/2.probability.md",
-    "笔记/MA2510概率统计/数理统计/point estimator.md"
+    "概率统计/概率论/1.permutation.md",
+    "MA2507 MATLAB/2.画图.md",
+    "MA2507 MATLAB/1.矩阵.md",
+    "MA2507 MATLAB/Pastedimage20220219101529.png",
+    "MA2507 MATLAB/Pastedimage20220219101017.png",
+    "MA2507 MATLAB/Pastedimage20220218231018.png",
+    "MA2507 MATLAB/Pasted image 20220326152842.png",
+    "MA2507 MATLAB/Pasted image 20220222114548.png",
+    "MA2507 MATLAB/微分方程.md",
+    "MA2507 MATLAB/4.定义函数.md"
   ]
 }
