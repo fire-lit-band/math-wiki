@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "概率统计/计数.md",
+            "file": "概率统计/4.随机变量定义.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率统计/计数.md",
+                "file": "概率统计/4.随机变量定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "407237c1aa412478",
   "lastOpenFiles": [
-    "概率统计/计数.md",
+    "概率统计/4.随机变量定义.md",
+    "概率统计/5.离散随机变量.md",
+    "概率统计/随机变量定义.md",
+    "概率统计/条件概率.md",
     "概率统计/组合.md",
-    "未命名.md",
-    "概率统计/describe statistics.md",
-    "概率统计/概率论/1.permutation.md",
-    "MA2507 MATLAB/2.画图.md",
-    "MA2507 MATLAB/1.矩阵.md",
-    "MA2507 MATLAB/Pastedimage20220219101529.png",
-    "MA2507 MATLAB/Pastedimage20220219101017.png",
-    "MA2507 MATLAB/Pastedimage20220218231018.png"
+    "概率统计/数字特征.md",
+    "概率统计/离散随机变量.md",
+    "概率统计/概率的公理化体系.md",
+    "概率统计/计数.md",
+    "未命名.md"
   ]
 }
