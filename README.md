@@ -17,4 +17,8 @@ pandas学习:[Learn Pandas Tutorials (kaggle.com)](https://www.kaggle.com/learn/
 
 公理体系中的公理就好比线性点数里面的basis
 
+# 未来的打算
 
+1.把how to write a proof的公里体系搬上来
+
+2.加入卢曼卡片标签，方便进行阅读
