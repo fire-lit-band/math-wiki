@@ -40,7 +40,7 @@ P(we reject H|H is true)=$\alpha$
 
 这时候我们先定义否定域D={($X_1,X_2,X_3\dots X_n$),$|\bar{X}-\mu_0|>c\}$，当样本测量值距离$\mu_0$太远了（这里的远就是用c来定义，但是目前他未知），我们就否定他
 
-P(we reject H|H is true)=$P(D|H$ is true)，也就是当H=$\mu=\mu_0$成立时的P的大小
+P(we reject H|H is true)=$P(D|H$ is true)，也就是当H=$\mu=\mu_0$成立时的P的大小（不过通常来说，否定域应该是直接对应标准正态函数上面的一个范围，然后x进行标准化处理）
 
 如果$H=\mu=\mu_0$是对的，此时D={($X_1,X_2,X_3\dots X_n$),$|\bar{X}-\mu_0|>c\}$
 
@@ -78,3 +78,5 @@ Power (Power Function):
 power $\left(\theta_{a}\right)=P\left(\right.$ rejecting $H_{0}$ when $\left.\theta=\theta_{a} \in \Omega_{a}\right)=$ $1-\beta\left(\theta_{a}\right)$,$\theta_{a}$在这里是自变量，有的时候其他题里面用的是$\mu$
 
 在type 1 error中，$\alpha$是一个边界的值，而在
+
+![image-20220409170629669](C:\Users\PRAGM\Documents\GitHub\math-wiki\概率统计\image-20220409170629669.png)
