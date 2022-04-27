@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d13e7bf7d6d05ef5",
+        "id": "41537e90987d61c8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2-线性代数/2-2向量空间/未命名.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-线性代数/2-2向量空间/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +88,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d13e7bf7d6d05ef5",
+  "active": "41537e90987d61c8",
   "lastOpenFiles": [
+    "2-线性代数/2-2向量空间/未命名.md",
     "2-线性代数/2-1线性方程组/2-1-2定理/定理4/4-2高斯若尔当.md",
     "2-线性代数/2-1线性方程组/2-1-2定理/1-线性方程组解的情况.md",
     "2-线性代数/2-1线性方程组/2-1-2定理/定理4/4-1高斯消元法.md",
@@ -92,7 +99,6 @@
     "2-线性代数/2-1线性方程组/2-1-1定义/6-阶梯型矩阵.md",
     "2-线性代数/2-1线性方程组/2-1-1定义/7-初等行变换.md",
     "2-线性代数/2-1线性方程组/2-1-1定义/1-线性方程(一元一次方程).md",
-    "2-线性代数/2-2向量空间/定义.md",
-    "阶梯型矩阵.md"
+    "2-线性代数/2-2向量空间/定义.md"
   ]
 }
