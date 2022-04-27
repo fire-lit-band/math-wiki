@@ -1,10 +1,7 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": false,
   "strictLineBreaks": true,
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "./",
-  "communityPluginSortOrder": "downloadReverse"
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false
 }

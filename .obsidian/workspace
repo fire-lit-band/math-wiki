@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c67dfbe938e62ebe",
+    "id": "86361b32b966a858",
     "type": "split",
     "children": [
       {
-        "id": "407237c1aa412478",
+        "id": "d13e7bf7d6d05ef5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "matlab/矩阵运算/矩阵运算.md",
+            "file": "2-线性代数/2-1线性方程组/2-1-1定义/3-方程的矩阵表达.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "39d55e62337c46ed",
+    "id": "536b1c18b2c664d9",
     "type": "split",
     "children": [
       {
-        "id": "1f2aa580b15758d1",
+        "id": "9e3d5358bda7d893",
         "type": "tabs",
         "children": [
           {
-            "id": "f5e81f333de2ad9e",
+            "id": "ce9fbcd9cd77d337",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "ab28592d044179cd",
+            "id": "243800159dea0e3a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305
+    "width": 300
   },
   "right": {
-    "id": "081c60f44cf8efe8",
+    "id": "b0ff68a81e8aef78",
     "type": "split",
     "children": [
       {
-        "id": "635614f400227024",
+        "id": "9e35d1f936f34d54",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bc3d6fc58e04ce",
+            "id": "d4e28f07dca84b61",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matlab/矩阵运算/矩阵运算.md",
+                "file": "2-线性代数/2-1线性方程组/2-1-1定义/3-方程的矩阵表达.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,34 +79,19 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "0961c4fc6d3b3e1e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "407237c1aa412478",
+  "active": "d13e7bf7d6d05ef5",
   "lastOpenFiles": [
-    "matlab/矩阵运算/矩阵运算.md",
-    "matlab/矩阵的创建和索引/矩阵的创建和索引.md",
-    "概率统计/离散随机变量.md",
-    "概率统计/4.随机变量定义.md",
-    "概率统计/5.离散随机变量.md",
-    "概率统计/随机变量定义.md",
-    "概率统计/条件概率.md",
-    "概率统计/组合.md",
-    "概率统计/数字特征.md",
-    "概率统计/概率的公理化体系.md"
+    "2-线性代数/2-1线性方程组/2-1-1定义/3-方程的矩阵表达.md",
+    "2-线性代数/2-1线性方程组/2-1-1定义/2-线性方程组.md",
+    "2-线性代数/2-1线性方程组/2-1-1定义/1-线性方程(一元一次方程).md",
+    "2-线性代数/2-2向量空间/定义.md"
   ]
 }

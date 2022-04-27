@@ -1,0 +1,59 @@
+:root {
+    --dnd-gutter-handle: red;
+}
+
+/* @settings
+
+name: Drag'n-drop
+id: drag-n-drop
+settings:
+    - 
+        id: my-title
+        title: Handle settings
+        type: heading
+        level: 3
+    - 
+        id: dnd-gutter-handle
+        title: Gutter handle color
+        type: variable-color
+        format: hsl-split
+        default: red
+*/
+
+.dnd-render-draggable-content .dnd-gutter-marker {
+    color:rgba(0, 0, 0, 0)
+}
+
+.dnd-render-draggable-content .dnd-drag-container {
+    color: rgba(0, 0, 0, 1)
+}
+
+.dnd-gutter-marker {
+    color: var(--dnd-gutter-handle);
+    cursor: pointer;
+}
+
+.drag-over {
+    background-color: rgba(0, 255, 255, 0.099);
+}
+
+.drag-over-invalid {
+    background-color: rgba(255, 0, 0, 0.099);
+}
+
+.drag-last {
+    border-bottom: 2px solid black;
+}
+
+.cm-dropCursor {
+    display: none !important;
+}
+
+.dnd-drag-container {
+    position:absolute;
+}
+
+.dnd-drag-container-inactive {
+    display: none !important;
+    position: relative;
+}
