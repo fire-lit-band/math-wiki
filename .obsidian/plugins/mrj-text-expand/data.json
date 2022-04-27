@@ -1,0 +1,7 @@
+{
+  "autoExpand": true,
+  "defaultTemplate": "- $link",
+  "delay": 5000,
+  "excludeCurrent": true,
+  "lineEnding": "<--->"
+}
