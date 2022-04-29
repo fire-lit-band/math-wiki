@@ -3,5 +3,6 @@
   "livePreview": true,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./"
 }
