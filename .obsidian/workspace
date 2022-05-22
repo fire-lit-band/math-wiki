@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "自学的感想/数学中的迷思.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "自学的感想/数学中的迷思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "41537e90987d61c8",
   "lastOpenFiles": [
+    "自学的感想/数学中的迷思.md",
     "README.md",
     "2-线性代数/2-2向量空间/2-2-2定理/9-行列秩相等.md",
     "2-线性代数/2-2向量空间/2-2-2定理/8-初等行变换不改变矩阵的行秩.md",
@@ -98,7 +99,6 @@
     "2-线性代数/2-2向量空间/2-2-1定义/11-矩阵的子空间.md",
     "2-线性代数/2-2向量空间/2-2-1定义/9-向量子空间.md",
     "3-解析几何/二次曲线.md",
-    "2-线性代数/2-2向量空间/2-2-1定义/3-实向量空间.md",
-    "2-线性代数/2-2向量空间/2-2-1定义/4-复向量空间.md"
+    "2-线性代数/2-2向量空间/2-2-1定义/3-实向量空间.md"
   ]
 }
